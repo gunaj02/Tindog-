@@ -1,1 +1,1 @@
-TinDog Starting Files
+A static web page made using HTML, CSS & Bootstrap.
